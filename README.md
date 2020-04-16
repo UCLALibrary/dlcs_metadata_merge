@@ -11,10 +11,10 @@ $ cd dlcs_metadata_merge
 $ python3 metadata_merge.py
 
 # Add csv from eureka as prompted in terminal
-$ Eureka CSV path: eureka.csv
+$ Eureka CSV: eureka.csv
 
 # Add csv from DLCS export app
-$ DLCS Export CSV path: dlcs_export.csv
+$ DLCS Export CSV: dlcs_export.csv
 
 # Notes
 
