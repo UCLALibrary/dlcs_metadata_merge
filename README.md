@@ -2,7 +2,7 @@
 Python script to combine dlcs export csv with bucketeered and festerized csvs for DLCS migration.
 
 # Clone this repo
-$ git clone 
+$ git clone https://github.com/UCLALibrary/dlcs_metadata_merge.git
 
 # Navigate into the directory
 $ cd dlcs_metadata_merge
