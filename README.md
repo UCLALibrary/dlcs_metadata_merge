@@ -19,5 +19,5 @@ $ DLCS Export CSV: dlcs_export.csv
 # Notes
 
 1. This script will overwrite the csv from the Eureka repo
-2. It doesn't matter where the csvs are kept. You can drap and drop them into the terminal for their full path
+2. It doesn't matter where the csvs are kept. You can drag and drop them into the terminal for their full path
 3. This script requires all three new fields from the Bucketeer and Fester services (i.e. it will not run if only one service has been used and not all of the fields are included)
